@@ -104,10 +104,11 @@ const RESOURCES = {
 "assets/AssetManifest.json": "5c988e780dc0fbfb69ee28f749b7870d",
 "assets/FontManifest.json": "bf92ce9dbdd0a7b80ae3061089148f10",
 "assets/NOTICES": "eaad85cd1497e3ae521d095d9e698cf3",
-"main.dart.js": "2602db4e762f0dfbd30d74cb2480e2cb",
+"main.dart.js": "a18d9c5ed81a2a5a0408ac3c6ba70114",
 "version.json": "d6f66596510281183cc93fdd8870f969",
-"index.html": "8982c89afb05b9f9555ba8bfb499c7e2",
-"/": "8982c89afb05b9f9555ba8bfb499c7e2",
+"swappy_pwa_v10.zip": "c04fee9c35b3ded9ddc2a322773aad00",
+"index.html": "53d9c4cf3ab68b2bb36398176b3ec230",
+"/": "53d9c4cf3ab68b2bb36398176b3ec230",
 "favicon.ico": "d5b25a67e7fb0fb56d2d05ada97d2692",
 "manifest.json": "5514bf5f97abcacb8258925112975886"
 };
